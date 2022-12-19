@@ -12,9 +12,9 @@ Criar um banco com o nome de **`SpotifyClone`**.
 
 Criar uma `QUERY` que exiba três colunas:
 
-A primeira coluna com o alias "**cancoes**" que exibe a quantidade total de canções.
-A segunda coluna com o alias "**artistas**" que exibe a quantidade total de artistas.
-A terceira coluna com o alias "**albuns**" que exibe a quantidade total de álbuns.
+1. A primeira coluna com o alias "**cancoes**" que exibe a quantidade total de canções.
+2. A segunda coluna com o alias "**artistas**" que exibe a quantidade total de artistas.
+3. A terceira coluna com o alias "**albuns**" que exibe a quantidade total de álbuns.
 
 ## Desafio 3
 
