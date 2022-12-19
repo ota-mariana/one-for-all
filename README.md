@@ -20,9 +20,9 @@ Criar uma `QUERY` que exiba três colunas:
 
 Criar uma `QUERY` com apenas três colunas:
 
-A primeira possui o alias "**usuario**" e exibe o nome da pessoa usuária.
-A segunda possui o alias "**qt_de_musicas_ouvidas**" e exibe a quantidade de músicas ouvida pela pessoa com base no seu histórico de reprodução.
-A terceira possui o alias "**total_minutos**" e exibe a soma dos minutos ouvidos pela pessoa usuária com base no seu histórico de reprodução.
+- A primeira possui o alias "**usuario**" e exibe o nome da pessoa usuária.
+- A segunda possui o alias "**qt_de_musicas_ouvidas**" e exibe a quantidade de músicas ouvida pela pessoa com base no seu histórico de reprodução.
+- A terceira possui o alias "**total_minutos**" e exibe a soma dos minutos ouvidos pela pessoa usuária com base no seu histórico de reprodução.
 
 ## Desafio 4
 
