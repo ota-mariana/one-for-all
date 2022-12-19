@@ -4,7 +4,7 @@ Projeto desenvolvido durante o curso para colocar em prática os conhecimentos a
 
 O desenvolvimento do projeto é feito através dos seguintes desafios:
 
-## Desafio 1
+### Desafio 1
 
 Criar um banco com o nome de **`SpotifyClone`**.
 
