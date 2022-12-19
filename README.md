@@ -64,7 +64,34 @@ Criar uma `QUERY` na qual o retorno mostra uma relação dos álbuns produzidos 
 - O nome da pessoa artista com o alias "**artista**".
 - O nome do álbum com o alias "**album**".
 
+## Desafio 9
 
+Criar uma `QUERY` que exibe a quantidade de músicas que estão presentes no histórico de reprodução da usuária `"Barbara Liskov"`. A coluna tem o alias "**quantidade_musicas_no_historico**".
+
+## Desafio 10
+
+Criar uma `QUERY` que exibe o nome e a quantidade de vezes que cada canção foi tocada por pessoas usuárias do plano gratuito ou pessoal.
+
+- Uma coluna deve exibir o nome da canção com o alias "**nome**".
+- Uma coluna deve exibir a quantidade de pessoas que já escutaram aquela canção e ter o alias "**reproducoes**".
+- O resultado deve ser agrupado pelo nome da canção em ordem alfabética.
+
+## BÔNUS
+
+## Desafio 11
+
+Criar uma `QUERY` que altera o nome das músicas de acordo com os critérios abaixo. O resultado deve estar em ordem alfabética decrescente.
+- O nome da música em seu estado normal com o alias **nome_musica**.
+- O nome da música atualizado com o alias **novo_nome**.
+- Selecionar somente as músicas que foram alteradas. 
+
+**Critérios**
+
+- Trocar a palavra **"Bard"** por **"QA"**.
+- Trocar a palavra **"Amar"** por **"Code Review"**.
+- Trocar a palavra **"Pais"** por **"Pull Requests"**.
+- Trocar a palavra **"SOUL"** por **"CODE"**.
+- Trocar a palavra **"SUPERSTAR"** por **"SUPERDEV"**.
 
 
 <!-- Olá, Tryber!
