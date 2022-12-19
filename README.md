@@ -1,10 +1,10 @@
 # Repositório do projeto One For All
 
-Projeto desenvolvido durante o curso para colocar em prática os conhecimentos adquiridos sobre MySQL, queries e tabelas. É preciso normalizar e popular as tabelas para executar as queries e assim encontrar as informações solicitadas.
+Projeto desenvolvido durante o curso para colocar em prática os conhecimentos adquiridos sobre **MySQL**, **queries** e **tabelas**. É preciso **normalizar** e popular as tabelas para executar as queries e assim encontrar as informações solicitadas.
 
 O desenvolvimento do projeto é feito através dos seguintes desafios:
 
-### Desafio 1
+## Desafio 1
 
 Criar um banco com o nome de **`SpotifyClone`**.
 
